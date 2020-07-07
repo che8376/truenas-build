@@ -52,6 +52,7 @@
 		"grub-efi-amd64-bin",
 		"htop",
 		"ifstat",
+		"apt-cacher-ng",
 		"nvidia-kernel-440.82",
 		"nvidia-container-toolkit",
 		"nvidia-smi",
@@ -62,6 +63,14 @@
 		"truenas",
 		"wireguard",
 		"zfs-test",
+		"build-essential",
+		"debootstrap",
+		"xorriso",
+		"grub-common",
+		"grub-efi-amd64-bin",
+		"grub-pc-bin mtools",
+		"squashfs-tools",
+		"unzip",
 		"zfs-initramfs"
 	],
 	"base-prune": [
